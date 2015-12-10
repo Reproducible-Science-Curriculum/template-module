@@ -24,3 +24,7 @@ Once you start working on your teaching module, please clean up this README.md f
 
 
 ##People and credits
+This lesson was first created at the [link to event]. The corresponding author is **First Name** [@guthub-username]. See the commit log for other contributors.
+
+Please post feedback and issues with the lesson on the repository's issue tracker. For instructor questions about teaching this lesson, you can also contact the corresponding author directly.
+)
