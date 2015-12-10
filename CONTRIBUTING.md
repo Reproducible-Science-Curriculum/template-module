@@ -6,12 +6,9 @@
 * Keep a pull request topically related. i.e., only bundle strictly
   related changes into a pull request.
   
-* We are trying to follow these guidelines:
-1. [Template for lessons](https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014/wiki/Template-for-lessons)
-2. [Module Template](https://github.com/Reproducible-Science-Curriculum/workshop-planning/blob/master/moduleTemplate.md)
+* We are trying to follow [these guidelines](https://github.com/Reproducible-Science-Curriculum/workshop-planning/blob/master/moduleTemplate.md).
  Any changes should make us more conforming, not less.
  Also, please use this [template for modules][template-module].
 
 [pull request]: https://help.github.com/articles/using-pull-requests/
-[lesson template]: https://github.com/Reproducible-Science-Curriculum/workshop-planning/blob/master/moduleTemplate.md
 [template-module]: https://github.com/Reproducible-Science-Curriculum/template-module

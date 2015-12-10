@@ -1,7 +1,4 @@
-This template for Reproducible Science Curriculum lesson modules follows the guidelines described in:
-
-1. [Template for lessons](https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014/wiki/Template-for-lessons)
-2. [Module Template](https://github.com/Reproducible-Science-Curriculum/workshop-planning/blob/master/moduleTemplate.md)
+This template for Reproducible Science Curriculum lesson modules follows [these guidelines](https://github.com/Reproducible-Science-Curriculum/workshop-planning/blob/master/moduleTemplate.md)
 
 Please follow these guidelines as well as the file and folder organisation structure in this template for any training material you may be developing. 
 
